@@ -3,4 +3,4 @@ Tree Visualizer is a program that would help to show how different trees are mad
 
 How to run it ?
 
-This runs on Qt. Open Qt and then open the .pro file and press CTRL + R which run it.
+This runs on Qt. Create a folder to store all these files. Then open Qt, open the folder in which all these files are stored and then open the .pro file and press CTRL + R which run it.
